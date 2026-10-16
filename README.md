@@ -22,6 +22,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Problem | Description | Link |
 |---|---|---|
 | Estimate a Scalar Derivative | Estimate a scalar polynomial derivative with a forward finite difference using coefficients ordered by ascending power. | https://www.tensortonic.com/problems/autograd-l01-finite-difference-derivative |
+| Check a Product-Chain Gradient | Compare analytic gradients with forward-difference estimates for a two-operation scalar graph. | https://www.tensortonic.com/problems/autograd-l01-gradient-check-product-chain |
 | Measure Scalar Expression Partials | Estimate the three partial derivatives of a scalar expression by perturbing one input at a time. | https://www.tensortonic.com/problems/autograd-l01-scalar-expression-partials |
 | Implement Leaky ReLU (with α) | Apply Leaky ReLU element-wise with a configurable negative slope while retaining positive inputs. | https://www.tensortonic.com/problems/leaky-relu |
 | Implement ReLU Activation | Apply the ReLU activation element-wise by replacing negative values with zero and preserving nonnegative inputs. | https://www.tensortonic.com/problems/relu-activation |
